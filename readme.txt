@@ -7,7 +7,7 @@ Tested up to: 4.1
 Stable tag: 0.1
 License: GPLv2 or later
 
-Quick Developer Insights Allows for quick access to PHP, server, and WordPress information.
+Quick Developer Insights allows for quick access to PHP, server, and WordPress information.
 
 == Description ==
 
